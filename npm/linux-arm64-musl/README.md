@@ -1,3 +1,3 @@
-# `@napi-rs/package-template-linux-arm64-musl`
+# `@stringke/test-napi-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `@napi-rs/package-template`
+This is the **aarch64-unknown-linux-musl** binary for `@stringke/test-napi`
